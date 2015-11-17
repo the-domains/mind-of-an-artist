@@ -1,0 +1,23 @@
+name: Mind of an Artist
+favicon: null
+layout_spectrum: 0.30196380242705345
+typography_spectrum: 0.6491688832174987
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3782223677262664
+  lightness: 0.9984628027305007
+  saturation: 0.3577837727498263
+  rhythmicContrast: 0.40217989939264953
+purpose: []
